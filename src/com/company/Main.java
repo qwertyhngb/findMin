@@ -10,7 +10,7 @@ public class Main {
             System.out.println(MouseInfo.getPointerInfo().getLocation());
         }
     }
-
+;
     public static int factorial(int n){
         if(n==1){
             return n;
